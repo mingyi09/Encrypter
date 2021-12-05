@@ -1,1 +1,1 @@
-# Java_small
+# Small Projects written in Java
